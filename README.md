@@ -12,4 +12,4 @@ DATA: [https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata](https
 
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/1_MAP_DESAPARICIONES.gif)       
 
-![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/1_MAP_DESAPARICIONES.gif) 
+![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/2_MAP_HOMICIDIOS.gif) 
