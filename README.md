@@ -7,4 +7,4 @@ Last year the National Statistics Insititute of Colombia (DANE) released a new d
 DATA: [https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata](https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata) 
 
 
-![alt text](https://github.com/JuanGaleano/CORESIDENCE/blob/main/CORESIDENCE.png) 
+![alt text]([https://github.com/JuanGaleano/CORESIDENCE/blob/main/CORESIDENCE.png](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/1_MAP_DESAPARICIONES.mp4)) 
