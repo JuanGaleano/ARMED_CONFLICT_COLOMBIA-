@@ -8,5 +8,8 @@ On July 2023 the National Statistics Institute of Colombia (DANE) released a new
 DATA: [https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata](https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata) 
 
 
-![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/3_LINE_DES_HOM_ABS_CUM.gif) 
+![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/3_LINE_DES_HOM_ABS_CUM.gif)       
+
+![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/1_MAP_DESAPARICIONES.gif)       
+
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/1_MAP_DESAPARICIONES.gif) 
