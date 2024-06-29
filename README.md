@@ -7,9 +7,12 @@ On July 2023 the National Statistics Institute of Colombia (DANE) released a new
 
 DATA: [https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata](https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata) 
 
+## FIG 1: Murdered or missing people, Colombia 1985-2018, Abosulte and cumulative events
 
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/3_LINE_DES_HOM_ABS_CUM.gif)       
 
+## FIG 2:  Missing people by departments, Colombia 1985-2018           
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/1_MAP_DESAPARICIONES.gif)       
 
+## FIG 3:  Murderer people by departments, Colombia 1985-2018     
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/2_MAP_HOMICIDIOS.gif) 
