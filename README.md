@@ -5,3 +5,6 @@ Between 1985 and 2018, Colombia experienced a multifaceted armed conflict involv
 Last year the National Statistics Insititute of Colombia (DANE) released a new dataset with information on victims of the armed conflict for human rights violations that correspond to homicide, kidnapping, disappearance and recruitment from 1985 to 2018. This dataset provides a comprehensive quantitative record on human rights violations, including homicide, kidnapping, forced disappearance, and recruitment of minors from 1985 to 2018. This data is compiled from multiple administrative records and subjected to statistical imputation to address missing information. It includes detailed victim demographics, event specifics, and the integration of over 112 databases. We use this rich dataset to analyze the demographic impact of the armed conflict in Colombia, identify victimization patterns, and assess the extent of underreporting. This analysis will support efforts to understand the conflict's full scope and contribute to historical clarity and policy-making aimed at preventing future violence.
 
 DATA: [https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata](https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata) 
+
+
+![alt text](https://github.com/JuanGaleano/CORESIDENCE/blob/main/CORESIDENCE.png) 
