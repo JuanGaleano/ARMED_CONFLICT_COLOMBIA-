@@ -14,17 +14,17 @@ DATA: [https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata](https
 ## FIG 2:  Murdered or missing people, Departments Colombia 1985-2018, Abosulte and cumulative events    
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/9EDITEDD.png) 
 
-## FIG 3:  Missing people by departments, Colombia 1985-2018           
+## FIG 3:  Murderer people by departments, Colombia 1985-2018     
+![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/2_MAP_HOMICIDIOS.gif)   
+
+## FIG 4:  Missing people by departments, Colombia 1985-2018           
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/1_MAP_DESAPARICIONES.gif)       
-
-## FIG 4:  Murderer people by departments, Colombia 1985-2018     
-![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/2_MAP_HOMICIDIOS.gif)       
-
-## FIG 5:  Missing people crude rates by departments, Colombia 1985-2018     
-![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/6_LINE_DES_FACET_DEPTO.png)       
-
-## FIG 6:  Homicide crude rates by departments, Colombia 1985-2018     
+    
+## FIG 5:  Homicide crude rates by departments, Colombia 1985-2018     
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/7_LINE_HOM_FACET_DEPTO.png) 
+
+## FIG 6:  Missing people crude rates by departments, Colombia 1985-2018     
+![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/6_LINE_DES_FACET_DEPTO.png)       
 
 ## FIG 7:  Missing people + Homicide crude rates by departments, Colombia 1985-2018     
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/8_LINE_DES_HOM_FACET_DEPTO.png) 
