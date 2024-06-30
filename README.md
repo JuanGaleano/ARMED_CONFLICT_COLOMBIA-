@@ -20,6 +20,9 @@ DATA: [https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata](https
 ## FIG 4:  Missing people by departments, Colombia 1985-2018           
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/1_MAP_DESAPARICIONES.gif)       
     
+
+Figures 5, 6 and 7 depict the gross rates of disappearances, homicides, and combined disappearances-homicides per 100,000 people across Colombian departments from 1985 to 2018, categorized by quintiles of danger. High rates of disappearances and homicides are concentrated in departments like Guaviare, Putumayo, Meta, Caquetá, Arauca, and Vaupés, with significant peaks in the late 1990s to early 2000s, reflecting periods of intense conflict and violence. Moderate rates are observed in regions such as Santander, Nariño, and Valle del Cauca, showing substantial but less severe fluctuations. Departments like Boyacá, Sucre, Amazonas, and Atlántico exhibit lower rates, indicating lesser impacts from national turmoil. The combined disappearances-homicides rates also follow similar patterns, with the highest rates in conflict-affected areas and lower rates in relatively safer regions. These trends underscore the severe and varied impact of Colombia's internal conflict across different geographical areas and time periods, highlighting significant regional disparities in violence and victimization.       
+
 ## FIG 5:  Homicide crude rates by departments, Colombia 1985-2018     
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/7_LINE_HOM_FACET_DEPTO.png) 
 
