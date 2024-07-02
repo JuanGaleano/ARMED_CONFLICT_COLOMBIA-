@@ -30,4 +30,9 @@ DATA: [https://microdatos.dane.gov.co/index.php/catalog/795/get-microdata](https
 ## FIG 7:  Missing people + Homicide crude rates by departments, Colombia 1985-2018     
 ![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/8_LINE_DES_HOM_FACET_DEPTO.png) 
 
+## FIG 8:  Relative distribution of events by departments, Colombia 1985-2018     
+![alt text](https://github.com/JuanGaleano/ARMED_CONFLICT_COLOMBIA-/blob/main/9_DONUTS_DES_HOM_DEPTO_LOGO.png)
+
+
+
 
